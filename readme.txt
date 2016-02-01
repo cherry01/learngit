@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git can work out of net in most of times.
 Creating a new branch is quick and simple.
+Test the not fast forward method.
